@@ -1,4 +1,0 @@
-flask
-pytest
-flake8
-gunicorn
